@@ -1,0 +1,6 @@
+tmp/
+semantic_weights/
+venv/
+yolov5/
+vscode/
+__pycache__/

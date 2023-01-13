@@ -1,0 +1,21 @@
+{
+  "name": "login_register_mern",
+  "version": "1.0.0",
+  "description": "Sign-UP and Sign-In page using MERN Stack",
+  "main": "sever.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "GSN Mithra",
+  "license": "ISC",
+  "dependencies": {
+    "@emotion/react": "^11.10.4",
+    "@emotion/styled": "^11.10.4",
+    "@mui/material": "^5.10.8",
+    "cors": "^2.8.5",
+    "crpyto-js": "^0.0.1-security",
+    "crypto-js": "^4.1.1",
+    "express": "^4.18.1",
+    "mongoose": "^6.6.4"
+  }
+}
